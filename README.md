@@ -1,0 +1,4 @@
+# Prerequisites
+verilator
+iverilog
+gtkwave
